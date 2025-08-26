@@ -38,10 +38,11 @@ pip install -r requirements.txt
 
 ## Data
 
-The project uses the SQuAD 2.0 dataset and TriviaQA.
+The project uses the SQuAD 2.0 dataset and TriviaQA dataset.
 
 ## Evaluation
 
 All methods are evaluated using:
 - ROC-AUC scores
 - F1-score
+
